@@ -1,5 +1,14 @@
 ### Hi there 👋
-
+#### I'm a game developer! 🕹
+<ul>
+  <li>⚡ Unity Developer Junior.</li>
+</br>
+<li>🌱 I’m currently learning C#.</li>
+</br>
+<li>🔭 I’m currently working on 2D Game.</li>
+</br>
+<li>💻 I am studying Systems Analysis and Development at my school.</li>
+</ul>
 <!--
 **Pittersss/Pittersss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
