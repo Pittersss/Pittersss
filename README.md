@@ -1,4 +1,6 @@
 ### Hi there 👋
+![GitHub User's stars](https://img.shields.io/github/stars/pittersss?style=flat&logo=github)
+![GitHub followers](https://img.shields.io/github/followers/pittersss?style=flat&logo=github)
 #### I'm a game developer! 🕹
 <ul>
   <li>⚡ Unity Developer Junior.</li>
@@ -20,6 +22,8 @@
 
 #### Languages
 ![C#](https://img.shields.io/badge/-CSharp-239120?style=flat&logo=c-Sharp&logoColor=white)
+
+![Scriptsengineer's github stats](https://github-readme-stats.vercel.app/api?username=pittersss&show_icons=true&theme=dark)
 <!--
 **Pittersss/Pittersss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
