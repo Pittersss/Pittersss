@@ -5,11 +5,11 @@
 <ul>
   <li>⚡ Unity Developer Junior.</li>
 </br>
-<li>🌱 I’m currently learning C#.</li>
+<li>🌱 I’m currently learning Python.</li>
 </br>
-<li>🔭 I’m currently working on 2D Game.</li>
+<li>🔭 I’m currently working on 3D Game.</li>
 </br>
-<li>💻 I am studying Systems Analysis and Development at my school.</li>
+<li>💻 I'm in college Computer Science - UFCG.</li>
 </ul>
 
 #### Techs
