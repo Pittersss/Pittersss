@@ -5,9 +5,9 @@
 <ul>
   <li>⚡ Unity Developer Junior.</li>
 </br>
-<li>🌱 I’m currently learning Python.</li>
+<li>🌱 I’m currently learning Java.</li>
 </br>
-<li>🔭 I’m currently working on 3D Game.</li>
+<li>🔭 I’m currently working on 2D Game.</li>
 </br>
 <li>💻 I'm in college Computer Science - UFCG.</li>
 </ul>
